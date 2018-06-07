@@ -130,7 +130,6 @@
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm" version="1.7.1" />
     <gap:plugin name="cordova-plugin-network-information" source="npm" version="1.3.3" />
     <gap:plugin name="cordova-plugin-statusbar" source="npm" version="2.2.3" />
-    <gap:plugin name="cordova-plugin-whitelist" source="npm" version="1.3.2" />
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" version="4.0.3" />
     <gap:plugin name="cordova-universal-clipboard" source="npm" version="0.1.0" />
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" version="1.0.1" />
